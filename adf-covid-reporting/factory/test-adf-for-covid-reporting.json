@@ -1,0 +1,9 @@
+{
+	"name": "test-adf-for-covid-reporting",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "723ce3d4-da01-4dc5-b3c8-33a5a56dfa6c",
+		"tenantId": "30a21321-d851-4f3d-a845-832091cd2545"
+	}
+}
