@@ -14,6 +14,9 @@
 		"ls_adls_covidreporting_properties_typeProperties_url": {
 			"value": "https://testdlcovidreporting.dfs.core.windows.net/"
 		},
+		"tr_population_file_copy_properties_typeProperties_scope": {
+			"value": "/subscriptions/07153843-16ca-453d-8591-0c728aaf945e/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/testsacovidreporting"
+		},
 		"containerUri": {
 			"value": ""
 		},
